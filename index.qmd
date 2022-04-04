@@ -1,0 +1,236 @@
+---
+title: Beyond Antifungal MICs 
+subtitle: <br> **Fungicidal activity, biofilms and tissue distribution**
+author: <br> Russell E. Lewis, Pharm.D. <br> Associate Professor- Infectious Diseases <br> Department of Medical and Surgical Sciences <br> University of Bologna
+format:
+  revealjs: 
+    theme: [default, custom.scss]
+    smaller: true
+    scrollable: true
+    fig-cap-location: top
+    incremental: false 
+    slide-number: false
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+bibliography: references.bib
+csl: diagnostic-microbiology-and-infectious-disease.csl
+---
+
+## Agenda {.smaller}
+
+::: columns
+::: {.column width="50%"}
+<br>
+
+-   How do deep-seated infections and biofilms alter drug penetration and fungal killing?
+-   How can we adapt antifungal selection an dosing strategies to account for these changes?
+:::
+
+::: {.column width="50%"}
+![](images/candida_tissue.png){fig-align="center" width="350"}
+:::
+:::
+
+## deep-seated, *adj*
+
+<br>
+
+<br>
+
+"Being so far below the surface as to be non-susceptible to <br> superficial examination, study or treatment" [^1]
+
+<br>
+
+"...very fixed and strong; difficult to change or destroy." [^2]
+
+## Deep-seated vs. "uncomplicated" infections
+
+::: columns
+::: {.column width="50%"}
+![](images/deep_sites.png){fig-align="center" width="600"}
+:::
+
+::: {.column width="50%"}
+![](images/catheter.png){fig-align="center"}
+:::
+:::
+
+## PK/PD of antifungal therapy
+
+</center>
+
+![](images/pkpd.png){fig-align="center"}
+
+<font size ="4"> [@theuretzbacher2012] </font>
+
+## How important is fungicidal activity? {.smaller}
+
+<br>
+
+| Disease                 | Evidence                                                                                                        | References                                           |
+|-------------------|----------------------------------|-------------------|
+| Cryptococcal meningitis | Early fungicidal activity (EFA) \> 0.2 log~10~/day in CSF is a surrogate marker for 18 week all-cause mortality | [@bicanic2009; @pullen2020; @rhein2016; @jarvis2022] |
+| Invasive candidiasis    | AMB or echinocandins achieve a higher probability of early therapeutic success and decreased risk of relapse    | [@kumar2018; @andes2012]                             |
+| Invasive aspergillosis  | Poorer outcomes reported with fungistatic echinocandin monotherapy in EORTC probable/proven aspergillosis       | [@ullmann2018; @viscoli2009]                         |
+
+## Biofilm-mediated resistance {.smaller}
+
+![](images/biofilm_resistance.png){fig-align="center" width="1600"}
+
+<font size ="4"> [@ciofu2022; @mitchell2015] </font>
+
+## How do fungal cells survive fungicidal drug exposure? {.smaller}
+
+::: columns
+::: {.column width="50%"}
+![](images/cellsinbiofilm.png){fig-align="center" width="600"}
+:::
+
+::: {.column width="50%"}
+-   Increased drug sequestration by biofilm matrix (glucan-mannans)
+-   Up-regulation of drug efflux pumps
+-   Immune cell evasion
+-   **Persister cells**
+:::
+:::
+
+<font size ="4"> [@Wuyts2018; @nett2020a] </font>
+
+## Persister cells survive fungicidal drug exposures {.smaller}
+
+![](images/confocal.png){fig-align="center"}
+
+<font size ="4"> [@Wuyts2018; @nett2020a] </font>
+
+## Antifungal susceptibility in biofilms {.smaller}
+
+![](images/biofilmtable.png)
+
+<font size ="4"> [@chatzimoschou2011] </font>
+
+## Biofilms aid escape from the host immune response
+
+![](images/immune_response.png){fig-align="center"}
+
+<font size ="4">[@Kernien2017]</font>
+
+## Biofilms aid immune-evasion during invasive aspergillosis {.smaller}
+
+<br>
+
+![](images/immune_aspergillus.png){fig-align="center"}
+
+<font size ="4">[@loussert2010; @Subroto2022]</font>
+
+## Biofilms modulate innate host immune response against *Aspergillus* {.smaller}
+
+![](images/immune_aspergillus.png){fig-align="center"}
+
+<font size ="4">[@Subroto2022]</font>
+
+## Aspergillus biofilms are adapted to environmental conditions and host responses {.smaller}
+
+![](images/aspergilloma.png){fig-align="center"}
+
+<font size ="4">[@Subroto2022]</font>
+
+## Rapid laboratory methods for detection of <br> high-biofilm producers {.smaller}
+
+<br> ![](images/biofilm_assay.png){fig-align="center"}
+
+<font size ="4">[@De2019]</font>
+
+## PK/PD of antifungal therapy
+
+</center>
+
+![](images/pkpd.png){fig-align="center"}
+
+<font size ="4"> [@theuretzbacher2012] </font>
+
+<center>
+
+## Antifungal tissue distribution patterns
+
+</center>
+
+![](images/Screenshot%202022-04-04%20at%2013.34.56.png)
+
+<font size ="4"> [@felton2014b] </font>
+
+## Inflammation and transporters affect antifungal distribution into the CNS
+
+<br>
+
+![](images/cns.png){fig-align="center"}
+
+## Single measurements of tissue homogenates are crude and potentially misleading
+
+<br>
+
+![](images/hysteresis.png){fig-align="center"}
+
+<font size ="4"> [@felton2014b] </font>
+
+## Matrix-assisted desorption ionization mass spectrometry imaging
+
+<br>
+
+![](images/msi.png){fig-align="center"}
+
+<font size ="4"> [@zhao2017; @Prideaux2012] </font>
+
+## Drug distribution in infected liver tissue after a single dose of micafungin
+
+<br>
+
+![](images/liver_tissue.png){fig-align="center"}
+
+<font size ="4"> [@zhao2017] </font>
+
+## Continuous monitoring of blood or interstitial fluid (ISF) antifungal concentrations
+
+![](images/microneedle.png){fig-align="center"}
+
+<font size ="4"> [@rawson2021]</font>
+
+## Barriers to current antifungal TDM approaches
+
+<br>
+
+![](images/tdm_loop.png){fig-align="center"}
+
+<font size ="4"> [@rawson2021] </font>
+
+## Summary {.smaller}
+
+::: columns
+::: {.column width="50%"}
+<br>
+
+-   Timely (early) fungicidal antifungal activity provides the best opportunity for reducing deep-seated (biofilm-associated) infections
+
+-   Antifungal therapy should be ideally selected not only its basis to kill fungal cells in vitro, but also its ability to penetrate the fungal extracellular matrix and achieve optimal fungicidal concentrations in tissue
+
+-   Emerging technologies have the potential to address knowledge gaps of how to optimally dose antifungals for deep-tissue infections
+:::
+
+::: {.column width="50%"}
+<br>
+
+![](images/candida_tissue.png){fig-align="center" width="350"}
+:::
+:::
+
+## Acknowledgements {.smaller}
+
+<br>
+
+All figures, unless otherwise cited, were created at: [www.biorender.com](www.biorender.com)
+
+## References
+
+[^1]: *Oxford English Dictionary* 2021
+
+[^2]: Merriam-Webster.com
