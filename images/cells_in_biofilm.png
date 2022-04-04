@@ -1,0 +1,106 @@
+---
+title: Beyond Antifungal MICs 
+subtitle: <br> *Fungicidal activity, biofilms and tissue distribution*
+author: <br> Russell E. Lewis, Pharm.D. <br> Associate Professor- Infectious Diseases <br> Department of Medical and Surgical Sciences <br> University of Bologna
+format:
+  revealjs: 
+    smaller: true
+    scrollable: true
+    theme: default
+    fig-cap-location: top
+    incremental: true 
+    slide-number: false
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    css: styles.css
+bibliography: references.bib
+csl: diagnostic-microbiology-and-infectious-disease.csl
+---
+
+## Agenda
+
+::: columns
+::: {.column width="50%"}
+-   How do deep-seated infections and biofilms alter drug penetration and fungal killing?
+-   How can we adapt antifungal selection an dosing strategies to account for these changes?
+:::
+
+::: {.column width="50%"}
+![](images/candida_tissue.png){fig-align="center" width="350"}
+:::
+:::
+
+## deep-seated, *adj*
+
+<br>
+
+<br>
+
+"Being so far below the surface as to be non-susceptible to superficial examination, study or treatment" [^1]
+
+<br>
+
+"...very fixed and strong; difficult to change or destroy." [^2]
+
+------------------------------------------------------------------------
+
+### Deep-seated vs. "uncomplicated" infections
+
+::: columns
+::: {.column width="50%"}
+![](images/deep_sites.png){fig-align="center" width="600"}
+:::
+
+::: {.column width="50%"}
+![](images/catheter.png){fig-align="center"}
+:::
+:::
+
+## PK/PD of Antifungal Therapy
+
+![](images/pkpd.png)
+
+<font size ="4"> [@theuretzbacher2012] </font>
+
+## How important is fungicidal activity?
+
+<br>
+
+| Disease                 | Evidence                                                                                                                                    | References                                           |
+|---------------|------------------------------------------|---------------|
+| Cryptococcal meningitis | Early fungicidal activity (EFA) \> 0.2 log~10~/day in CSF is a surrogate marker for 18 week all-cause mortality                             | [@bicanic2009; @pullen2020; @rhein2016; @jarvis2022] |
+| Invasive candidiasis    | Fungicidal therapy (AMB or echinocandin) is associated with a higher probability of early therapeutic success and decreased risk of relapse | [@kumar2018; @andes2012]                             |
+| Invasive aspergillosis  | Poorer outcomes reported with fungistatic echinocandin monotherapy in EORTC probable/proven aspergillosis                                   | [@ullmann2018; @viscoli2009]                         |
+
+## Biofilm-mediated resistance
+
+![](images/biofilm_resistance.png){fig-align="center" width="1600"}
+
+<font size ="4"> [@ciofu2022;@mitchell2015] </font>
+
+## How do fungal cells survival fungicidal drug exposure?
+
+::: columns
+::: {.column width="50%"}
+![](images/deep_sites.png){fig-align="center" width="600"}
+:::
+
+::: {.column width="50%"}
+![](images/catheter.png){fig-align="center"}
+:::
+:::
+
+## Conclusions {.smaller}
+
+## Acknowledgements
+
+<br>
+
+All figures, unless otherwise cited, were created at: [www.biorender.com](www.biorender.com)
+
+## References
+
+[^1]: *Oxford English Dictionary* 2021
+
+[^2]: Merriam-Webster.com
