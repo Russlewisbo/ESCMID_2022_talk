@@ -229,6 +229,8 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 All figures, unless otherwise cited, were created at: [www.biorender.com](www.biorender.com)
 
+<!--# usethis::use_github_pages(branch = "main") -->
+
 ## References
 
 [^1]: *Oxford English Dictionary* 2021
