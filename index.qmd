@@ -263,6 +263,8 @@ Invasive aspergillosis is an area where the evidence is even more difficult to p
 
 <br>
 
+Slides prepared using R studio Quarto. <br>
+
 All figures, unless otherwise cited, were created at: [www.biorender.com](www.biorender.com)
 
 <!--# usethis::use_github_pages(branch = "main") -->
