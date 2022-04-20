@@ -32,6 +32,12 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 :::
 
+::: {.notes}
+My job in this presentation is to address a couple of the areas of pharmacology that may confound the translation and application of antifungal susceptibility testing results in patient care. <br> 
+
+Specifically I will adress how deep-seated infections and biofilms alter fungal killing and what are the current challenges of adating antifungal dosing and selection strategies for the treatment of deep-seated and biofilm-assocaited infections
+:::
+
 ## deep-seated, *adj*
 
 <br>
@@ -43,6 +49,17 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 <br>
 
 "...very fixed and strong; difficult to change or destroy." [^2]
+
+::: {.notes}
+What is exactly defines a "deep-seated" infection? <br>
+
+Standard definitions of "deep-seated" that one finds in non-medical dictionaries indicate two key characteristics <br>
+
+1. Being so far below the surface as to be non-susceptible to 
+superficial examination, study or treatment- i.e. more difficult to diagnose
+
+2. very fixed and strong; difficult to change or destroy- i.e. more difficlt to treat
+:::
 
 ## Deep-seated vs. "uncomplicated" infections
 
@@ -56,6 +73,10 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 :::
 :::
 
+::: {.notes}
+In mycology textbooks, deepseated infections are classified when the invasive fungal pathogen involved the brain, heart, lungs , kidney , spleen, liver abdominal viscous or other internal organs. Catheter-associated bloodstream infections may not be considered deep-seated, although there is obviously some area of overlap. Cutaneous infections, while technically invasive in the sense the fungi are invading tissue, hair follicles or nails, or mucous membranes, are not deep-seated, even if these infections can be refratory to treatment
+:::
+
 ## PK/PD of antifungal therapy
 
 </center>
@@ -64,16 +85,31 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 
 <font size ="4"> [@theuretzbacher2012] </font>
 
+::: {.notes}
+So in the classic pharmacology viewpoint, the question is how does the pharmacokinetic and pharmacodynamics of antifungal therapy change with deep-seated or biofilm-associated infections? <br>
+
+I would like to start by focusing on the pharmacodynamics question and specifically the anticipated micrpbiologic effects and clinical outcome
+:::
+
 ## How important is fungicidal activity? {.smaller}
 
 <br>
 
 | Disease                 | Evidence                                                                                                        | References                                           |
-|-------------------|----------------------------------|-------------------|
-| Cryptococcal meningitis | Early fungicidal activity (EFA) \> 0.2 log~10~/day in CSF is a surrogate marker for 18 week all-cause mortality | [@bicanic2009; @pullen2020; @rhein2016; @jarvis2022] |
+|--------------------|---------------------------------|--------------------|
+| Cryptococcal meningitis | Early fungicidal activity (EFA) \> 0.2 log~10~/day in CSF is a surrogate marker for 18 week survival | [@bicanic2009; @pullen2020; @rhein2016; @jarvis2022] |
 | Invasive candidiasis    | AMB or echinocandins achieve a higher probability of early therapeutic success and decreased risk of relapse    | [@kumar2018; @andes2012]                             |
 | Invasive aspergillosis  | Poorer outcomes reported with fungistatic echinocandin monotherapy in EORTC probable/proven aspergillosis       | [@ullmann2018; @viscoli2009]                         |
 
+::: {.notes}
+A common point of discussion is whether the antimicrobials or antifungals produce cidal versus static activity- and in fact the importance of having bactericidal activity for some infections has been recently questioned in the literature.
+<br>
+In the case of treating invasive fungal infection, I think the evidence of role of fungicidal activity is more consistent and stronger, especially for cryptococcal meningitis where early fungicidal activity defined as > 0.2 log10 CFU reduction per day in the CSF is associated with improved 18-week survival. So we actually have a PD biomarker that is predictive of outcomes.
+<br>
+In the case of invasive candidiasis, the evidence is less clear, but certainly evidence from major clinical trials have suggested a higher probability of clinical success and lower risk of relapse when mostly bloodstream infections are treated with agents such as echinocandins and amphotericin B, that at least in vitro, display more rapidly fungicidal effects vs. triazoles
+<br>
+Invasive aspergillosis is an area where the evidence is even more difficult to parse and the microbiological definition of fungicidal is more complicated for a multicellular hypahe, but there is some suggestion that drugs that produce more rapid global fungal cell death produce better clinical outcomes that echinocandin monotherapy, that only cause cell lysis at the fungal tips.
+:::
 ## Biofilm-mediated resistance {.smaller}
 
 ![](images/biofilm_resistance.png){fig-align="center" width="1600"}
